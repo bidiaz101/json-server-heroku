@@ -1,16 +1,24 @@
 {
-  "posts":[
+  "quotes": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "quote": "Jesus Christ, Marie. They're minerals!",
+      "author": "Hank Schrader",
+      "id": 24
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "quote": "I am not in danger, Skyler. I am the danger!",
+      "author": "Walter White",
+      "id": 1
+    },
+    {
+      "quote": "Stay out of my territory.",
+      "author": "Walter White",
+      "id": 2
+    },
+    {
+      "quote": "IFT",
+      "author": "Skyler White",
+      "id": 3
     }
   ]
 }
